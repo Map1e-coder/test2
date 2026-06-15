@@ -10,16 +10,16 @@ internal sealed class ChordProgressionGenerator
         "Cmaj7",
         "Cadd9",
         "Dm",
-        "Dmadd9",
+        // "Dmadd9",
         "Em",
         "F",
         "Fmaj7",
         "Fadd9",
         "G",
         "G7",
-        "Gadd9",
+        // "Gadd9",
         "Am",
-        "Amadd9"
+        // "Amadd9"
     ];
 
     public IReadOnlyList<string> Generate()
