@@ -1,1 +1,8 @@
-This is the initial README for the repository.
+コード進行ジェネレーター
+
+Cメジャーのコード進行をランダムに4つ提案する、C# WinFormsアプリです。
+1回の抽選内で同じコードは重複しません。「再抽選」ボタンで何度でも抽選できます。
+
+実行方法:
+
+dotnet run
